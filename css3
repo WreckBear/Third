@@ -1,0 +1,35 @@
+<head>
+	<style>
+		div{
+			width:100px;
+			height:50px;
+			margin-top:5px;
+			transition:width 0.2s;	
+			border-radius:3px;
+			background-color:#cc55dd;
+		}
+		div:hover{
+			width:500px;
+		}
+	</style>
+</head>
+
+
+<body>
+	
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+	<div></div>
+</body>
